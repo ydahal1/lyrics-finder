@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/lyrics-finder/static/css/main.f48e8dce.chunk.css",
+    "main.js": "/lyrics-finder/static/js/main.c67c9d99.chunk.js",
+    "main.js.map": "/lyrics-finder/static/js/main.c67c9d99.chunk.js.map",
+    "runtime-main.js": "/lyrics-finder/static/js/runtime-main.6ce1a689.js",
+    "runtime-main.js.map": "/lyrics-finder/static/js/runtime-main.6ce1a689.js.map",
+    "static/css/2.3f6a30b1.chunk.css": "/lyrics-finder/static/css/2.3f6a30b1.chunk.css",
+    "static/js/2.421551f0.chunk.js": "/lyrics-finder/static/js/2.421551f0.chunk.js",
+    "static/js/2.421551f0.chunk.js.map": "/lyrics-finder/static/js/2.421551f0.chunk.js.map",
+    "index.html": "/lyrics-finder/index.html",
+    "static/css/2.3f6a30b1.chunk.css.map": "/lyrics-finder/static/css/2.3f6a30b1.chunk.css.map",
+    "static/css/main.f48e8dce.chunk.css.map": "/lyrics-finder/static/css/main.f48e8dce.chunk.css.map",
+    "static/js/2.421551f0.chunk.js.LICENSE.txt": "/lyrics-finder/static/js/2.421551f0.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/lyrics-finder/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/spinner.98e29c76.gif": "/lyrics-finder/static/media/spinner.98e29c76.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ce1a689.js",
+    "static/css/2.3f6a30b1.chunk.css",
+    "static/js/2.421551f0.chunk.js",
+    "static/css/main.f48e8dce.chunk.css",
+    "static/js/main.c67c9d99.chunk.js"
+  ]
+}
