@@ -12,7 +12,7 @@ function App() {
   return (
     <div className="app">
       <Provider>
-        <Router>
+        <Router basename="/">
           <Navbar />
           <div>
             <Switch>
