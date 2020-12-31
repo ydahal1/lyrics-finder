@@ -1,0 +1,10 @@
+.track__card__body {
+  color: white;
+  background: black;
+}
+
+.viewmore-btn {
+  background: red !important;
+  border: white !important;
+  letter-spacing: 2px;
+}

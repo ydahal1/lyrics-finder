@@ -1,0 +1,11 @@
+.search {
+  background: black !important;
+  color: gold;
+  border: white;
+}
+
+.search > form > button {
+  background: lime;
+  color: black;
+  border: white;
+}
