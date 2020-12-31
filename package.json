@@ -2,7 +2,7 @@
   "name": "lyrics-finder",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://ydahal1.github.io/lyrics-finder",
+  "homepage": "http://ydahal1.github.io/lyrics-finder/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.8",
     "@testing-library/react": "^11.2.2",
